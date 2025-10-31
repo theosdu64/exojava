@@ -1,12 +1,6 @@
 import java.util.*;
 
-/**
- * gère les notes des étudiants et calcule leurs moyennes
- */
 public class School {
-    /**
-     * collecte les noms et notes des étudiants puis affiche les moyennes triées
-     */
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int notes[] = {};
